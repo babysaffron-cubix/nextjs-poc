@@ -1,0 +1,16 @@
+export { default as Aria } from "@/assets/icons/Aria";
+export { default as ForgotPassword } from "@/assets/icons/ForgotPassword";
+export { default as GitHub } from "@/assets/icons/GitHub";
+export { default as Instagram } from "@/assets/icons/Instagram";
+export { default as Linkedin } from "@/assets/icons/Linkedin";
+export { default as Radix } from "@/assets/icons/Radix";
+export { default as Spinner } from "@/assets/icons/Spinner";
+export { default as Twitter } from "@/assets/icons/Twitter";
+export { default as Web } from "@/assets/icons/Web";
+export { default as Users } from "@/assets/icons/Users";
+export { default as Verified } from "@/assets/icons/Verified";
+export { default as HeadsetUser } from "@/assets/icons/HeadsetUser";
+export { default as LaughEmoji } from "@/assets/icons/LaughEmoji";
+export { default as AddUser } from "@/assets/icons/AddUser";
+export { default as Search } from "@/assets/icons/Search";
+export { default as Export } from "@/assets/icons/Export";
